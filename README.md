@@ -1,1 +1,1 @@
-# zerodha-project
+# simple-zerodha-app
